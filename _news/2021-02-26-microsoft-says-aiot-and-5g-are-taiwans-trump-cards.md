@@ -1,11 +1,11 @@
 ---
 title: Microsoft says AIoT and 5G are Taiwan’s trump cards
-summary: 'Growth' and 'global' should be the key words for Taiwanese businesses in 2021
+summary: “growth” and “global” should be the key words for Taiwanese businesses in 2021
 image: https://digi.ey.gov.tw/File/3BA3BED78E127BC8?S=L
 permalink: /news/microsoft-says-aiot-and-5g-are-taiwans-trump-cards/
 layout: page
 ---
-Taiwan companies are most likely to score a winning performance internationally by using their expertise in Artificial Intelligence of Things (AIoT) and 5G technology, said Flora Chen (陳慧蓉), marketing and operations director at Microsoft Taiwan, on Friday (Feb. 26).
+Taiwan companies are most likel“growth” and “global”y to score a winning performance internationally by using their expertise in Artificial Intelligence of Things (AIoT) and 5G technology, said Flora Chen (陳慧蓉), marketing and operations director at Microsoft Taiwan, on Friday (Feb. 26).
 
 She named “growth” and “global” as the two key words for Taiwan corporations in 2021, CNA reported. According to Chen, her company will continue to support local businesses with their digital transformation amid an unstable environment.
 
