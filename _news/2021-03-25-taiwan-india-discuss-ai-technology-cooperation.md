@@ -1,7 +1,7 @@
 ---
 title: Taiwan, India discuss AI technology cooperation
 summary: Academic institutions from Taiwan and India have worked on a pandemic prevention system, and now plan to develop a tool to detect fabricated videos
-image: https://www.highlanderai.com/uploads/page_image/Robot-AI1.jpg
+image: https://www.aitrends.com/wp-content/uploads/2018/09/9-14AITechin2019-2-1.jpg
 permalink: /news/taiwan-india-discuss-ai-technology-cooperation/
 layout: page
 ---
