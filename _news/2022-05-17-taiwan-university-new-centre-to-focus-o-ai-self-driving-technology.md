@@ -1,7 +1,7 @@
 ---
 title: Taiwan University New Centre to Focus on AI Self-driving Technology
 summary: Autonomous cars are the wave of the future. For that to happen, Artificial Intelligence (AI) must be harnessed along with an army of sensors and Taiwan has opened a research centre to do just that.
-image: https://mlraan0pnurx.i.optimole.com/c32lz_w.u14v~5b478/w:1270/h:710/q:90/https://opengovasia.com/wp-content/uploads/2022/05/MAIN-1705-TW.png
+image: /images/20220517news.jpg
 permalink: /news/taiwan-university-new-centre-to-focus-o-ai-self-driving-technology/
 layout: page
 ---
