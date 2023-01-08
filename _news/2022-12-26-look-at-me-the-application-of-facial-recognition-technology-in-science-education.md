@@ -15,6 +15,7 @@ In their study, Professor Chiu’s research team adopted a counterintuitive scie
 
 A statistical decision-tree analysis also revealed that among the six universal facial expressions (namely, happy, surprise, disgust, sad, angry, and scared), anger, sadness, and disgust are the three expression states that may predict if a student would undergo conceptual change. In contrast with past studies where positive facial expressions are found to be associated with student learning, it was shown that it was the negative facial expression states that are the key indicators of scientific conceptual change among students. Further analyses also revealed that the way scientific materials are presented also have an impact on the prediction of student learning. For example, using anima-tion to explain scientific concepts is a better predicting indicator than using text or experiment vid-eo. Moreover, textual explanation is better at conveying conceptual concepts than experiment vid-eos.
 <br/>
+<br/>
 Date: 2022-12-26
 <br/> 
 Source: National Science and Technology Council
