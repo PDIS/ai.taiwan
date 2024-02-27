@@ -27,6 +27,7 @@ Although many countries are able to produce weather forecasts faster with the us
 
 “We are using weather data collected from the areas around Taiwan as the basis for training the AI system, with the goal of developing a new high-resolution weather forecast model that applies to areas around the nation,” he said.
 <br/>
+<br/>
 Date: 2024-2-27
 <br/>
 Source: The Taipei Times
