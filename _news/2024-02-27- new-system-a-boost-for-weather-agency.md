@@ -1,7 +1,7 @@
 ---
 title: New system a boost for weather agency
 summary: The Central Weather Administration would be capable of making forecasts about tropical storms and typhoons 10 days before their arrival, as opposed to seven
-image: https://www.taipeitimes.com/images/2024/02/27/p03-240227-007.jpg
+image: /images/20240227news.jpg
 permalink: /news/new-system-a-boost-for-weather-agency/
 layout: page
 ---
