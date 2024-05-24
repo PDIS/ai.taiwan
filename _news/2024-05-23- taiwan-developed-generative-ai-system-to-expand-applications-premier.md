@@ -1,7 +1,7 @@
 ---
-title:Taiwan developed generative AI system to expand applications：Premier
+title:Taiwan developed generative AI system to expand applications Premier
 summary:Taiwan
-image: 
+image: https://imgcdn.cna.com.tw/Eng/WebEngPhotos/800/2024/20240524/1024x768_042662315958.jpg
 permalink: /news/taiwan-developed-generative-ai-system-to-expand-applications-premier/
 layout: page
 ---
