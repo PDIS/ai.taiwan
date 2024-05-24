@@ -5,7 +5,7 @@ image:
 permalink: /news/taiwan-developed-generative-ai-system-to-expand-applications-premier/
 layout: page
 ---
-Taiwan's self-built large language model, TAIDE, will have its application fields further expanded in the future to accelerate improvements in industry productivity and public sector efficiency, according to Premier Cho Jung-tai (卓榮泰) on Thursday.
+Taiwan's self-built large language model, TAIDE, will have its application fields further expanded in the future to accelerate improvements in industry productivity and public sector efficiency, according to Premier Cho Jung-tai on Thursday.
 
 Citing the premier, Cabinet spokesperson Chen Shi-kai (陳世凱) said at a press conference that as an indispensable partner in the global semiconductor supply chain, Taiwan must keep up with artificial intelligence (AI) developments in order to maintain its key strategic position going forward.
 
