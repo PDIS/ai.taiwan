@@ -1,7 +1,7 @@
 ---
 title:Taiwan developed generative AI system to expand applications：Premier
-summary:Taiwan's self-built large language model TAIDE is shown to be applied to many fields in a presentation held in Taipei
-image: https://imgcdn.cna.com.tw/Eng/WebEngPhotos/800/2024/20240524/1024x768_042662315958.jpg
+summary:Taiwan
+image: 
 permalink: /news/taiwan-developed-generative-ai-system-to-expand-applications-premier/
 layout: page
 ---
