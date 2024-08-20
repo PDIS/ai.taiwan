@@ -1,7 +1,7 @@
 ---
-title: Taiwan education ministry to launch AI university alliance
+title:Taiwan education ministry to launch AI university alliance
 summary: Plan will include 3 university programs and 14 courses
-image: https://image.taiwannews.com.tw/2024%2F08%2F06%2F57579270693c4a35b29bcc0581df0e00.jpg
+image:https://image.taiwannews.com.tw/2024%2F08%2F06%2F57579270693c4a35b29bcc0581df0e00.jpg
 permalink: /news/taiwan-education-ministry-to-launch-ai-university-alliance/
 layout: page
 ---
