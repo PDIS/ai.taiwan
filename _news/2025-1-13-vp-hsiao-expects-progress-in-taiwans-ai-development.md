@@ -1,7 +1,7 @@
 ---
 title: VP Hsiao expects progress in Taiwan's AI development
 summary: Hsiao highlights collective efforts to make Taiwan leading center for AI innovation and tech talent
-image: 
+image: https://image.taiwannews.com.tw/2025%2F01%2F13%2Fffc58a3d6ec94c8d83ffb8ed4c7cdcd1.jpg
 permalink: /news/vp-hsiao-expects-progress-in-taiwans-ai-development/
 layout: page
 ---
