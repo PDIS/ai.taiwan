@@ -1,6 +1,11 @@
----
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
----
+<!DOCTYPE html>
+    <html>
+    <head>
+      <meta charset="utf-8">
+      <meta http-equiv="refresh" content="0; URL='https://digi.nstc.gov.tw/AnnoucePage2.aspx'">
+      <title>重定向</title>
+    </head>
+    <body>
+      <p>您將被轉址到新的頁面...</p>
+    </body>
+    </html>
